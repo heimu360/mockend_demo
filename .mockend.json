@@ -12,7 +12,7 @@
     "body": {
       "loremParagraphs": {
         "minLength": 10,
-        "maxLength": 1000
+        "maxLength": 100
       }
     },
     "tag": {
